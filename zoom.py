@@ -1,4 +1,3 @@
-# SenseHawk Technologies Assignment - 1
 # Name - Abhinandan Dogra
 
 import cv2
